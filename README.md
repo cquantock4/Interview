@@ -1,5 +1,13 @@
 # Welcome to the Kanopy Interview
 
+## Introduction
+
+Hello, my name is Cody Quantock
+
+I am created this project to demonstrate my ability to setup a React web app, fetch data from an API and display the results.
+
+This version searches for "Margarita" drinks from the Cocktail DB, you can click on each drink to view more details about ingredients and directions.
+
 ## Instructions
 
 For this interview, we want to see how you feel about working with a public API and developing a React app.
