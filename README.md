@@ -4,7 +4,7 @@
 
 Hello, my name is Cody Quantock
 
-I am created this project to demonstrate my ability to setup a React web app, fetch data from an API and display the results.
+I created this project to demonstrate my ability to setup a React web app, fetch data from an API and display the results.
 
 This version searches for "Margarita" drinks from the Cocktail DB, you can click on each drink to view more details about ingredients and directions.
 
